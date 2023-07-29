@@ -1,11 +1,7 @@
 
-package com.mycompany.composicion;
+package proyectoFinal;
 
 public interface Motor {
-    
-    public void encerder();
-    public void acelerar(int rpm);
+    public void encender();
     public void apagar();
-    public void explotar();
-    
 }
